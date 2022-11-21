@@ -22,11 +22,11 @@ Other information
 
 
 
-** Title: Skillbridge My First Dapp **
+# ** Title: Skillbridge My First Dapp **
 
-** Intern: James Escobar
+## ** Intern: James Escobar
 
-** Table of Contents **
+### ** Table of Contents **
 
 - [1. Project Description](#1-project-description)
 - [2. Detailed Project Information](#2-detailed-project-information)
@@ -39,11 +39,11 @@ Other information
 - [9. Screencast of Project Walk Through](#9-screencast-of-project-walk-through)
 
 
-#1. Project Description
+# 1. Project Description
 
 ** Project Name ** : My Dapp
 
 ** Summary **: A simple dapp that is integrated with MetaMask, input a value that gets logged to the blockchain.
 
-#4. Frontend Access
+# 4. Frontend Access
 The frontend was developed in HTML/JS
